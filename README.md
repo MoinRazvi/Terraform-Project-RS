@@ -16,7 +16,7 @@ The repository documents daily practical tasks, real-world infrastructure scenar
 | Project | Description | Status |
 |---|---|---|
 | [Project 01](./project-01/README.md) | AWS Infrastructure Provisioning & Drift Detection | ✅ Completed |
-| Project 02 | Upcoming Terraform practical task | ⏳ Planned |
+| [Project 02](./project-02/README.md)  | Terraform — AWS VPC, EC2, and Load Balancer | ✅ Completed |
 | Project 03 | Upcoming Terraform practical task | ⏳ Planned |
 
 *The upcoming project descriptions will be updated as new tasks are completed.*
