@@ -1,5 +1,5 @@
-# # Project 02: AWS Infrastructure Provisioning with Terraform | VPC, EC2, ALB, Subnets & Networking
----
+# Project 02: AWS Infrastructure Provisioning with Terraform | VPC, EC2, ALB, Subnets & Networking
+
 ## Overview
 
 This project demonstrates how to provision and manage highly available AWS web infrastructure using **Terraform (Infrastructure as Code)**. It creates a custom VPC, public subnets across multiple Availability Zones, EC2 web servers, and an Application Load Balancer (ALB) to distribute incoming HTTP traffic.
